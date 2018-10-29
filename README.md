@@ -1,6 +1,6 @@
 # OpenCensus Go Kafka
 
-[![Build Status](https://travis-ci.org/yancl/opencensus-go-exporter-kafka.svg?branch=master)](https://travis-ci.org/yancl/opencensus-go-exporter-kafka) [![GoDoc][godoc-image]][godoc-url]
+[![Build Status](https://travis-ci.org/yancl/opencensus-go-exporter-kafka.svg?branch=master)](https://travis-ci.org/yancl/opencensus-go-exporter-kafka) [![GoDoc](https://godoc.org/github.com/yancl/opencensus-go-exporter-kafka?status.svg)](https://godoc.org/github.com/yancl/opencensus-go-exporter-kafka)
 
 Provides OpenCensus exporter support for sending trace to kafka, Base on [stackdriver](https://github.com/census-ecosystem/opencensus-go-exporter-stackdriver) exporter code
 
